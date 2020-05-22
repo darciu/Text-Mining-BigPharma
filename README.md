@@ -1,8 +1,7 @@
 # Text-Mining-BigPharma
 
-Projekt badaj?cy wpisy z Twittera dla wybranych firm farmaceutycznych w obliczu pocz?tku pandemii koronawirusa stworzony na zaliczenie przedmiotu Text-Mining opracowany przez zesp�?:
+Projekt badający wpisy z Twittera dla wybranych firm farmaceutycznych w obliczu początku pandemii koronawirusa stworzony na zaliczenie przedmiotu Text-Mining opracowany przez zespół:
 
 Dariusz Giemza
-
-?ukasz Ku?akowski
+Łukasz Kułakowski
 
